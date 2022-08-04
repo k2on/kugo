@@ -1,15 +1,15 @@
-# Luke's Hugo Theme
+# Koon's Hugo Theme
 
-A simple Hugo theme I plan on using for my personal website, [Based.Cooking](https://based.cooking) and [LandChad.net](https://landchad.net).
+A simple Hugo theme forked from Luke Smith.
 
 ## get started
 
 ```sh
 hugo new site new-site
 cd new-site
-git clone https://github.com/lukesmithxyz/lugo themes/lugo
-echo "theme = 'lugo'" >> config.toml
-cp themes/lugo/static/style.css static/
+git clone https://github.com/k2on/kugo themes/kugo
+echo "theme = 'kugo'" >> config.toml
+cp themes/kugo/static/style.css static/
 ```
 
 ## stuff
